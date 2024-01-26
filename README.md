@@ -4,8 +4,8 @@
 
 
 
-![Alt Text](shot1.png)
-![Alt Text](shot2.png)
+![Alt Text](./public/shot1.png)
+![Alt Text](./public/shot2.png)
 
 
 ## Installation
