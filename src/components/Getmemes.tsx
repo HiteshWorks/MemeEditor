@@ -33,8 +33,9 @@ const GetMemes = () => {
               .map((_, index) => (
                 <Text key={index} />
               ))}
-            <div className="flex gap-8"></div>
+            <div className="flex gap-8">
 
+            </div>
             <button
               onClick={addText}
               className="bg-sky-500 rounded-xl p-3 text-4xl"
@@ -49,7 +50,7 @@ const GetMemes = () => {
             >
               Save
             </button>
-          </div>
+            </div>
         </div>
       )}
     </>
