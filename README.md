@@ -14,7 +14,7 @@
 Clone the repository in your local System!
 
 ```
-git clone [url](https://github.com/HiteshWorks/MemeEditor.git)
+git clone https://github.com/HiteshWorks/MemeEditor.git
 
 ```
 
