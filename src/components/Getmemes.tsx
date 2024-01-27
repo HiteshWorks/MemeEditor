@@ -33,6 +33,10 @@ const GetMemes = () => {
               .map((_, index) => (
                 <Text key={index} />
               ))}
+            </div>
+
+
+            
             <div className="flex gap-8">
 
             </div>
@@ -50,7 +54,6 @@ const GetMemes = () => {
             >
               Save
             </button>
-            </div>
         </div>
       )}
     </>
